@@ -1,0 +1,2 @@
+# 9thsense-network-scanner
+Network Scanning is a method of getting network information such as identification of hosts, port information, and services by scanning networks and ports. The main Objective of Network Scanning is: -  To identify live hosts on a network To identify open &amp; closed ports To identify operating system information To identify services running on a network To identify running processes on a network To identify the presence of Security Devices like firewalls To identify System architecture To identify vulnerabilities
